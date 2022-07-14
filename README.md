@@ -1,3 +1,8 @@
+![Profile Views](https://profile-counter.glitch.me/{subhenduKarma001}/count.svg)
+
+![Profile Views](https://gpvc.arturio.dev/subhenduKarma001)
+
+
 - 👋 Hi, I’m @subhenduKarma001
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
