@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
 ![Profile Views](https://gpvc.arturio.dev/subhenduKarma001)
 
 <p align="center">
-  <img src="https://github.com/subhenduKarma001/subhenduKarma001/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/subhendukarma001/subhendukarma001/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
